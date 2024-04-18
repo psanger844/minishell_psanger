@@ -1,0 +1,9 @@
+a.out
+execve.c
+get_path.c
+grep
+init_data.c
+main.c
+test
+test1
+testingminishell.h
